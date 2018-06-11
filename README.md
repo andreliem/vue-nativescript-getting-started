@@ -3,7 +3,7 @@
 > Getting started with Vue and NativeScript
 
 ## Description
-This repo was created to illustrate a tutorial that was posted on the [VueJsRadar](https://www.vuejsradar.com/getting-started-with-building-mobile-apps-with-nativescript-and-vuejs)[https://www.vuejsradar.com] to teach users how to get going with NativeScript & Vue.
+This repo was created to illustrate a tutorial that was posted on the [VueJsRadar](https://www.vuejsradar.com/getting-started-with-building-mobile-apps-with-nativescript-and-vuejs) to teach users how to get going with NativeScript & Vue.
 
 ## Usage
 
